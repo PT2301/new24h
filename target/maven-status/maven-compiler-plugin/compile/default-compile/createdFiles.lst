@@ -1,0 +1,7 @@
+com\news\entity\RoleEntity.class
+com\news\entity\NewEntity.class
+com\news\entity\UserEntity.class
+com\news\api\admin\NewAPI.class
+com\news\Application.class
+com\news\entity\CategoryEntity.class
+com\news\dto\NewDTO.class
